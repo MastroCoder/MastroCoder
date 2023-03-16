@@ -1,5 +1,37 @@
-### Hi there 👋
+<h1 align=center>Olá! Eu sou Felipe Mastromauro!👋</h1>
 
+### 🃏 Sobre mim
+- 🌱 Atualmente sou estudante de bacharelado em Engenharia de Software pela [UnB - Universidade de Brasília](https://www.unb.br/).
+- 💻 Técnico em Desenvolvimento de sistemas pela ETEC Fernando Prestes
+- 🦾 Atualmente procurando uma oportunidade de emprego para para começar a minha carreira! 
+- 📫 Você pode me contatar por esses canais!
+
+<a href="mailto:fe03mastromauro@gmail.com?subject=Olá%Felipe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 />&nbsp;&nbsp;</a><a href="https://www.linkedin.com/in/felipemastromauro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+### Dê uma olhada no(s) meu(s) GitHub(s)!
+
+Aqui estão alguns dados desta conta e da conta que eu majoritariamente uso na faculdade ([MastromauroUnB](https://github.com/MastromauroUnB))
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MastroCoder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MastromauroUnB&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### :hammer_and_wrench: Linguagens e ferramentas
+
+Aqui tem algumas das ferramentas e linguagens de programação com as quais já trabalhei!
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" witdh="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" witdh="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" witdh="40" height="40" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp;
+  
+</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MastroCoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MastroCoder/MastroCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
