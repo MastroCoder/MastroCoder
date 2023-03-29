@@ -8,12 +8,9 @@
 
 <a href="mailto:fe03mastromauro@gmail.com?subject=Olá%Felipe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 />&nbsp;&nbsp;</a><a href="https://www.linkedin.com/in/felipemastromauro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-### Dê uma olhada no(s) meu(s) GitHub(s)!
+### Dê uma olhada em um dos meus outros projetos!
 
-Aqui estão alguns dados desta conta e da conta que eu majoritariamente uso na faculdade ([MastromauroUnB](https://github.com/MastromauroUnB))
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MastroCoder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MastromauroUnB&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+- Eu trabalhei com um time de desenvolvimento no projeto [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/) para a Polícia Civil do Goiás!
 
 ### :hammer_and_wrench: Linguagens e ferramentas
 
