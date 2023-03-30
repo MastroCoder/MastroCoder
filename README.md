@@ -18,16 +18,15 @@ Aqui tem algumas das ferramentas e linguagens de programação com as quais já 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" witdh="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C Sharp" **alt="C Sharp" witdh="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" witdh="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" witdh="40" height="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp;
-  
 </div>
-
-
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MastroCoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MastroCoder/MastroCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
