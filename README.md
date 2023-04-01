@@ -1,4 +1,4 @@
-<h1 align=center>Olá! Eu sou Felipe Mastromauro!👋</h1>
+<h1 align=center>Olá! Meu nome é Felipe Mastromauro!👋</h1>
 
 ### 🃏 Sobre mim
 - 🌱 Atualmente sou estudante de bacharelado em Engenharia de Software pela [UnB - Universidade de Brasília](https://www.unb.br/).
