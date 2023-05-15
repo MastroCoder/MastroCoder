@@ -8,9 +8,16 @@
 
 <a href="mailto:fe03mastromauro@gmail.com?subject=Olá%Felipe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 />&nbsp;&nbsp;</a><a href="https://www.linkedin.com/in/felipemastromauro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-### Dê uma olhada em um dos meus outros projetos!
+### Dê uma olhada em alguns dos meus outros projetos!
 
-- Eu trabalhei com um time de desenvolvimento no projeto [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/) para a Polícia Civil do Goiás!
+- Eu trabalhei com um time de desenvolvimento no projeto [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/) para a Polícia Civil do Goiás na matéria de Métodos de desenvolvimento de sistemas.
+- Desenvolvi um software de organização de remédios chamado [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO) junto com [Pedro Muniz](https://github.com/PedroFMuniz) para a matéria de Orientação a objetos.
+- Desenvolvi um software de gerenciamento de estoque para uma loja de roupas como [Trabalho de conclusão de curso para a ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp) junto com [Pedro Muniz](https://github.com/PedroFMuniz).
+
+Atualmente, estou trabalhando com times separados em dois outros projetos:
+
+-  Para a matéria de Interação Humano Computador, estamos analisando o site do DETRAN de Goiás e documentando resultados dessas análises [neste repositório](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO).
+-  Para a matéria de Requisitos de software, estamos realizando tarefas de engenharia de requisitos para o aplicativo da Petz e documentando esses resultados [neste repositório](https://github.com/Requisitos-de-Software/2023.1-Petz).
 
 ### :hammer_and_wrench: Linguagens e ferramentas
 
