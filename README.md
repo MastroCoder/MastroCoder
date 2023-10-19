@@ -14,10 +14,9 @@
 - Desenvolvi um software de organização de remédios chamado [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO) junto com [Pedro Muniz](https://github.com/PedroFMuniz) para a matéria de Orientação a objetos.
 - Desenvolvi um software de gerenciamento de estoque para uma loja de roupas como [Trabalho de conclusão de curso para a ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp) junto com [Pedro Muniz](https://github.com/PedroFMuniz).
 
-Atualmente, estou trabalhando com times separados em dois outros projetos:
+Atualmente, estou trabalhando neste projeto:
 
--  Para a matéria de Interação Humano Computador, estamos analisando o site do DETRAN de Goiás e documentando resultados dessas análises [neste repositório](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO).
--  Para a matéria de Requisitos de software, estamos realizando tarefas de engenharia de requisitos para o aplicativo da Petz e documentando esses resultados [neste repositório](https://github.com/Requisitos-de-Software/2023.1-Petz).
+-  Estou monitorando o grupo da disciplina de MDS-EPS no desenvolvimento do projeto GEROcuidado em parceria para com a Enactus. Os resultados e detalhes do projeto estão sendo documentados [neste repositório](https://github.com/fga-eps-mds/2023-2-GEROcuidado-Doc)
 
 ### :hammer_and_wrench: Linguagens e ferramentas
 
