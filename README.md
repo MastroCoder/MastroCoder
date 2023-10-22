@@ -13,8 +13,8 @@
 - Eu trabalhei com um time de desenvolvimento no projeto [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/) para a Polícia Civil do Goiás na matéria de Métodos de desenvolvimento de sistemas.
 - Desenvolvi um software de organização de remédios chamado [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO) junto com [Pedro Muniz](https://github.com/PedroFMuniz) para a matéria de Orientação a objetos.
 - Desenvolvi um software de gerenciamento de estoque para uma loja de roupas como [Trabalho de conclusão de curso para a ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp) junto com [Pedro Muniz](https://github.com/PedroFMuniz).
--  Para a matéria de Interação Humano Computador, eu e um grupo analisamos o site do DETRAN de Goiás e documentamos os resultados dessas análises [neste repositório](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO).
--  Para a matéria de Requisitos de software, eu e um grupo realizamos tarefas de engenharia de requisitos para o aplicativo da Petz e documentamos esses resultados [neste repositório](https://github.com/Requisitos-de-Software/2023.1-Petz).
+-  Para a matéria de Interação Humano Computador, eu e um grupo analisamos o site do DETRAN de Goiás e documentamos os resultados dessas análises (o repositório foi definido como privado).
+-  Para a matéria de Requisitos de software, eu e um grupo realizamos tarefas de engenharia de requisitos para o aplicativo da Petz e documentamos esses resultados (o repositório foi definido como privado).
 
 Atualmente, estou trabalhando neste projeto:
 
