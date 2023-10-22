@@ -6,17 +6,19 @@
 - 🦾 Atualmente procurando uma oportunidade de emprego para para começar a minha carreira! 
 - 📫 Você pode me contatar por esses canais!
 
-<a href="mailto:fe03mastromauro@gmail.com?subject=Olá%Felipe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 />&nbsp;&nbsp;</a><a href="https://www.linkedin.com/in/felipemastromauro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:fe03mastromauro@gmail.com?subject=Olá%Felipe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 />&nbsp;&nbsp;</a> <a href="https://www.linkedin.com/in/felipemastromauro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ### Dê uma olhada em alguns dos meus outros projetos!
 
 - Eu trabalhei com um time de desenvolvimento no projeto [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/) para a Polícia Civil do Goiás na matéria de Métodos de desenvolvimento de sistemas.
 - Desenvolvi um software de organização de remédios chamado [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO) junto com [Pedro Muniz](https://github.com/PedroFMuniz) para a matéria de Orientação a objetos.
 - Desenvolvi um software de gerenciamento de estoque para uma loja de roupas como [Trabalho de conclusão de curso para a ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp) junto com [Pedro Muniz](https://github.com/PedroFMuniz).
+-  Para a matéria de Interação Humano Computador, eu e um grupo analisamos o site do DETRAN de Goiás e documentamos os resultados dessas análises [neste repositório](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO).
+-  Para a matéria de Requisitos de software, eu e um grupo realizamos tarefas de engenharia de requisitos para o aplicativo da Petz e documentamos esses resultados [neste repositório](https://github.com/Requisitos-de-Software/2023.1-Petz).
 
 Atualmente, estou trabalhando neste projeto:
 
--  Estou monitorando o grupo da disciplina de MDS-EPS no desenvolvimento do projeto GEROcuidado em parceria para com a Enactus. Os resultados e detalhes do projeto estão sendo documentados [neste repositório](https://github.com/fga-eps-mds/2023-2-GEROcuidado-Doc)
+-  Estou monitorando o grupo da disciplina de MDS-EPS no desenvolvimento do projeto GEROcuidado em parceria para com a Enactus. Os resultados e detalhes do projeto estão sendo documentados [neste repositório](https://github.com/fga-eps-mds/2023-2-GEROcuidado-Doc).
 
 ### :hammer_and_wrench: Linguagens e ferramentas
 
@@ -31,6 +33,7 @@ Aqui tem algumas das ferramentas e linguagens de programação com as quais já 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
 &nbsp;
