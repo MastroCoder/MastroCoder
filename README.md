@@ -15,12 +15,14 @@
 <a href="mailto:fe03mastromauro@gmail.com?subject=Olá%Felipe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 /></a> 
 <a href="https://www.linkedin.com/in/felipemastromauro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MastroCoder" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastroCoder&hide=java&layout=compact" />
-</a>
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MastroCoder&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastroCoder&hide=java&layout=compact&theme=merko" />
+</div>
+
+&nbsp;
+
+Gráficos gerados com [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -48,23 +50,4 @@ Aqui tem algumas das ferramentas e linguagens de programação com as quais já 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  
 </div>
-
-&nbsp;
-
-
-<!--
-**MastroCoder/MastroCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
