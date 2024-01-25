@@ -29,6 +29,7 @@
 - Eu trabalhei com um time de desenvolvimento no projeto [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/) para a Polícia Civil do Goiás na matéria de Métodos de desenvolvimento de sistemas.
 - Desenvolvi um software de organização de remédios chamado [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO) junto com [Pedro Muniz](https://github.com/PedroFMuniz) para a matéria de Orientação a objetos.
 - Desenvolvi um software de gerenciamento de estoque para uma loja de roupas como [Trabalho de conclusão de curso para a ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp) junto com [Pedro Muniz](https://github.com/PedroFMuniz).
+- Fui monitor do time de Métodos de desenvolvimento de sistemas para o desenvolvimento do projeto [GEROCuidado](https://fga-eps-mds.github.io/2023-2-GEROcuidado-Doc/) para a [Enactus Brasil](https://br.linkedin.com/company/enactus-brasil)
 
 ---
 
