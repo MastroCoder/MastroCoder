@@ -1,7 +1,7 @@
 <h1 align=center>Olá! Meu nome é Felipe Mastromauro! 👋</h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/gVmynntOtJoAAAAC/touhou-patchouli.gif"/>
+  <img src="https://media.tenor.com/pBhLGoicbhsAAAAi/ralsei-ralsei-spin.gif" />
 </div>
 
 ---
