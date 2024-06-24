@@ -17,7 +17,7 @@
 
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MastroCoder&theme=merko" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastroCoder&hide=java&layout=compact&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastroCoder&hide=java,html&layout=compact&theme=merko" />
 </div>
 
 &nbsp;
