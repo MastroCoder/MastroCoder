@@ -9,7 +9,7 @@
 ### 🃏 Sobre mim
 - 📚 Atualmente sou estudante de bacharelado em Engenharia de Computação pela [Facens](https://facens.br/)
 - 💻 Técnico em Desenvolvimento de sistemas pela ETEC Fernando Prestes.
-- 🦾 Atualmente trabalhando como estagiário na [FINATEC](https://www.finatec.org.br/).
+- 🦾 Atualmente trabalhando como pesquisador acadêmico para a [FINATEC](https://www.finatec.org.br/) e estagiário para a [Facens](https://facens.br/) em parceria com a [Huawei Brasil](https://www.huawei.com/br/).
 - 📫 Você pode me contatar por esses canais!
 
 <a href="mailto:fe03mastromauro@gmail.com?subject=Olá%Felipe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 /></a> 
