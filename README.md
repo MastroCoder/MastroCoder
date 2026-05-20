@@ -29,7 +29,7 @@
 - [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/)
 - [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO)
 - [Thesis project - ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp)
-- [Project Monitor - GEROCuidado](https://fga-eps-mds.github.io/2023-2-GEROcuidado-Doc/) for [Enactus Brasil](https://br.linkedin.com/company/enactus-brasil) - 
+- [Project Monitor - GEROCuidado](https://fga-eps-mds.github.io/2023-2-GEROcuidado-Doc/) for [Enactus Brasil](https://br.linkedin.com/company/enactus-brasil)
 
 ---
 
