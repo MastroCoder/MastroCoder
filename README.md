@@ -1,28 +1,20 @@
-<h1 align=center>Olá! Meu nome é Felipe Mastromauro! 👋</h1>
+<h1 align=center>Hello! My name is Felipe Mastromauro! 👋</h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/pBhLGoicbhsAAAAi/ralsei-ralsei-spin.gif" />
+  <img src="https://media.tenor.com/pBhLGoicbhsAAAAi/ralsei-ralsei-spin.gif" width="128"/>
 </div>
 
 ---
 
-### 🃏 Sobre mim
-- 📚 Atualmente sou estudante de bacharelado em Engenharia de Computação pela [Facens](https://facens.br/)
-- 💻 Técnico em Desenvolvimento de sistemas pela ETEC Fernando Prestes.
-- 🦾 Atualmente trabalhando como estagiário em desenvolvimento Python para a [Facens](https://facens.br/) em parceria com a [Huawei Brasil](https://www.huawei.com/br/).
-- 📫 Você pode me contatar por esses canais!
+## ABOUT ME
+- Computer Engineering undergraduate [@UniFacens](https://facens.br/)
+- Systems development technician [@ETEC Fernando Prestes](https://etecfernandoprestes.cps.sp.gov.br/).
+- Python development intern [@UniFacens](https://facens.br/) in partnership with [Huawei Brasil](https://www.huawei.com/br/).
+
+## CONTACT INFO
 
 <a href="mailto:fe03mastromauro@gmail.com?subject=Olá%Felipe"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 /></a> 
 <a href="https://www.linkedin.com/in/felipemastromauro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-
-<div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MastroCoder&theme=merko" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastroCoder&hide=java,html&layout=compact&theme=merko" />
-</div>
-
-&nbsp;
-
-Gráficos gerados com [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
