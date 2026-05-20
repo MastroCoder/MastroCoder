@@ -18,18 +18,23 @@
 
 ---
 
-### Dê uma olhada em alguns dos meus outros projetos!
+### Current projects
 
-- Eu trabalhei com um time de desenvolvimento no projeto [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/) para a Polícia Civil do Goiás na matéria de Métodos de desenvolvimento de sistemas.
-- Desenvolvi um software de organização de remédios chamado [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO) junto com [Pedro Muniz](https://github.com/PedroFMuniz) para a matéria de Orientação a objetos.
-- Desenvolvi um software de gerenciamento de estoque para uma loja de roupas como [Trabalho de conclusão de curso para a ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp) junto com [Pedro Muniz](https://github.com/PedroFMuniz).
-- Fui monitor do time de Métodos de desenvolvimento de sistemas para o desenvolvimento do projeto [GEROCuidado](https://fga-eps-mds.github.io/2023-2-GEROcuidado-Doc/) para a [Enactus Brasil](https://br.linkedin.com/company/enactus-brasil)
+- [Raimundão - code for an autonomous sumo robot](https://github.com/facens-omegabotz/Codigo_Raimundao)
+- [chip8_emulator](https://github.com/mastromauro/chip8_emulator)
+- [Thesis project - UniFacens](https://github.com/mastromauro/Codigo_Sumo_Telemetria)
+
+### Past projects
+
+- [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/)
+- [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO)
+- [Thesis project - ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp)
+- [Project Monitor - GEROCuidado](https://fga-eps-mds.github.io/2023-2-GEROcuidado-Doc/) for [Enactus Brasil](https://br.linkedin.com/company/enactus-brasil) - 
 
 ---
 
-### :hammer_and_wrench: Linguagens e ferramentas
+## Languages and tools
 
-Aqui tem algumas das ferramentas e linguagens de programação com as quais já trabalhei! Pretendo ir adicionando mais ferramentas com o desenvolvimento da minha carreira!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" witdh="40" height="40" />
