@@ -9,7 +9,8 @@
 ## ABOUT ME
 - Computer Engineering undergraduate [@UniFacens](https://facens.br/)
 - Systems development technician [@ETEC Fernando Prestes](https://etecfernandoprestes.cps.sp.gov.br/).
-- Python development intern [@UniFacens](https://facens.br/) in partnership with [Huawei Brasil](https://www.huawei.com/br/).
+- Former software engineering intern/academic researcher [@Finatec](https://www.finatec.org.br/)
+- Former Python development intern [@UniFacens](https://facens.br/) in partnership with [Huawei Brasil](https://www.huawei.com/br/).
 
 ## CONTACT INFO
 
@@ -29,7 +30,7 @@
 - [Schedula](https://fga-eps-mds.github.io/2022-2-Schedula-Doc/)
 - [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO)
 - [Thesis project - ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp)
-- [Project Monitor - GEROCuidado](https://fga-eps-mds.github.io/2023-2-GEROcuidado-Doc/) for [Enactus Brasil](https://br.linkedin.com/company/enactus-brasil)
+- [Project Monitor - GEROCuidado](https://fga-eps-mds.github.io/2023-2-GEROcuidado-Doc/)
 
 ---
 
